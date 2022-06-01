@@ -1,7 +1,7 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=xdraffa&label=Profile%20views&color=0e75b6&style=flat" alt="xdraffa" /> </p>
+
 <h1 align="center">Hi, I'm Rafael</h1>
 <h3 align="center">Just a future Software-Engineer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xdraffa&label=Profile%20views&color=0e75b6&style=flat" alt="xdraffa" /> </p>
 
 - 🔭 I’m currently working on **Improving myself :)**
 
@@ -30,6 +30,3 @@
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ### ?
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=xdraffa&label=Profile%20views&color=0e75b6&style=flat" alt="xdraffa" /> </p>
----
-![](https://visitcount.itsvg.in/api?id=xdraffa&icon=0&color=6)](https://visitcount.itsvg.in)
