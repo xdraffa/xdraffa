@@ -32,4 +32,4 @@
 ### ?
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=xdraffa&label=Profile%20views&color=0e75b6&style=flat" alt="xdraffa" /> </p>
 ---
-[![](https://visitcount.itsvg.in/api?id=xdraffa&icon=0&color=6)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=xdraffa&icon=0&color=6)](https://visitcount.itsvg.in)
