@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="440" viewBox="0 0 960 440" role="img" aria-labelledby="title desc">
+  <title id="title">Rafael's Windows 98 style desktop</title>
+  <desc id="desc">A teal desktop with a command prompt listing Java, C, C++, and C#. A dialog says the code compiled but the runtime has trust issues.</desc>
+  <rect width="960" height="440" fill="#008080"/>
+  <g font-family="Tahoma, Arial, sans-serif" font-size="14" fill="white" text-anchor="middle">
+    <g transform="translate(57 36)">
+      <rect x="-23" y="0" width="46" height="33" fill="#c0c0c0" stroke="#000" stroke-width="2"/>
+      <rect x="-18" y="5" width="36" height="23" fill="#000080"/>
+      <path d="M-4 33v8h-12v4h32v-4H4v-8" fill="#c0c0c0" stroke="#000"/>
+      <text y="65">My Computer</text>
+    </g>
+    <g transform="translate(57 134)">
+      <path d="M-24 10h20l6-7h21v36h-47z" fill="#ffff80" stroke="#000" stroke-width="2"/>
+      <path d="M-24 15h49l-5 24h-44z" fill="#ffffb0" stroke="#808000"/>
+      <text y="63">scope creep</text>
+    </g>
+    <g transform="translate(57 230)">
+      <path d="M-15 4h30l-3 38h-24z" fill="#c0c0c0" stroke="#fff" stroke-width="2"/>
+      <path d="M-18 3h36M-6 10v25M3 10v25M11 10l-2 25" fill="none" stroke="#808080" stroke-width="3"/>
+      <text y="64">TODOs</text>
+    </g>
+  </g>
+  <rect x="169" y="47" width="710" height="262" fill="#003e3e"/>
+  <rect x="162" y="40" width="710" height="262" fill="#c0c0c0"/>
+  <path d="M163 301V41h708" fill="none" stroke="#fff" stroke-width="2"/>
+  <path d="M163 301h708V41" fill="none" stroke="#000" stroke-width="2"/>
+  <rect x="167" y="45" width="700" height="28" fill="#000080"/>
+  <text x="177" y="65" font-family="Tahoma, Arial, sans-serif" font-size="16" font-weight="bold" fill="white">C:\dev\xdraffa.exe</text>
+  <g fill="#c0c0c0" stroke="#fff">
+    <rect x="799" y="50" width="19" height="19"/>
+    <rect x="821" y="50" width="19" height="19"/>
+    <rect x="843" y="50" width="19" height="19"/>
+  </g>
+  <g stroke="#000" stroke-width="2" fill="none">
+    <path d="M803 64h11"/>
+    <rect x="825" y="54" width="11" height="10"/>
+    <path d="M847 54l11 11m0-11l-11 11"/>
+  </g>
+  <text x="178" y="94" font-family="Tahoma, Arial, sans-serif" font-size="14">File</text>
+  <text x="223" y="94" font-family="Tahoma, Arial, sans-serif" font-size="14">Edit</text>
+  <text x="268" y="94" font-family="Tahoma, Arial, sans-serif" font-size="14">View</text>
+  <text x="319" y="94" font-family="Tahoma, Arial, sans-serif" font-size="14">Help (good luck)</text>
+  <rect x="170" y="104" width="694" height="189" fill="#000"/>
+  <g font-family="Courier New, monospace" font-size="18" fill="#c0c0c0">
+    <text x="185" y="133">C:\dev&gt; whoami</text>
+    <text x="185" y="159" fill="#fff">Rafael Pacheco / xdraffa</text>
+    <text x="185" y="196">C:\dev&gt; dir languages</text>
+    <text x="185" y="224" fill="#80ffff">JAVA    C    C++    C#</text>
+    <text x="185" y="276">C:\dev&gt; fix_one_small_thing.exe <tspan fill="white">_</tspan></text>
+  </g>
+  <rect x="363" y="250" width="544" height="139" fill="#003e3e"/>
+  <rect x="356" y="243" width="544" height="139" fill="#c0c0c0"/>
+  <path d="M357 381V244h542" fill="none" stroke="#fff" stroke-width="2"/>
+  <path d="M357 381h542V244" fill="none" stroke="#000" stroke-width="2"/>
+  <rect x="361" y="248" width="534" height="24" fill="#000080"/>
+  <text x="370" y="265" font-family="Tahoma, Arial, sans-serif" font-size="14" font-weight="bold" fill="white">Task failed successfully</text>
+  <circle cx="389" cy="305" r="16" fill="#fff" stroke="#000080" stroke-width="2"/>
+  <text x="385" y="312" font-family="Georgia, serif" font-size="24" font-weight="bold" fill="#000080">i</text>
+  <g font-family="Tahoma, Arial, sans-serif" font-size="15" fill="#000">
+    <text x="419" y="300">The compiler says your code is fine.</text>
+    <text x="419" y="324">The runtime would like a second opinion.</text>
+  </g>
+  <rect x="514" y="341" width="128" height="28" fill="#c0c0c0" stroke="#000"/>
+  <path d="M515 368v-26h126" fill="none" stroke="#fff"/>
+  <rect x="518" y="345" width="120" height="20" fill="none" stroke="#000" stroke-dasharray="2 2"/>
+  <text x="578" y="360" text-anchor="middle" font-family="Tahoma, Arial, sans-serif" font-size="14">Run again</text>
+  <rect x="655" y="341" width="128" height="28" fill="#c0c0c0" stroke="#000"/>
+  <path d="M656 368v-26h126" fill="none" stroke="#fff"/>
+  <text x="719" y="360" text-anchor="middle" font-family="Tahoma, Arial, sans-serif" font-size="14">Gaslight runtime</text>
+  <rect y="400" width="960" height="40" fill="#c0c0c0"/>
+  <path d="M0 400h960M0 402h960" stroke="#fff"/>
+  <rect x="5" y="407" width="86" height="28" fill="#c0c0c0" stroke="#000"/>
+  <path d="M6 434v-26h84" fill="none" stroke="#fff"/>
+  <rect x="13" y="413" width="8" height="8" fill="#ff0000"/>
+  <rect x="23" y="413" width="8" height="8" fill="#00a000"/>
+  <rect x="13" y="423" width="8" height="8" fill="#0000ff"/>
+  <rect x="23" y="423" width="8" height="8" fill="#ffff00"/>
+  <text x="40" y="426" font-family="Tahoma, Arial, sans-serif" font-size="16" font-weight="bold">Start</text>
+  <rect x="103" y="407" width="241" height="28" fill="#ddd" stroke="#808080"/>
+  <text x="115" y="426" font-family="Tahoma, Arial, sans-serif" font-size="14">xdraffa.exe — Not Responding</text>
+  <rect x="848" y="407" width="105" height="28" fill="#c0c0c0" stroke="#808080"/>
+  <text x="900" y="426" text-anchor="middle" font-family="Tahoma, Arial, sans-serif" font-size="14">3:14 AM</text>
+</svg>
