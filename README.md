@@ -52,19 +52,6 @@ languages = Java, C, C++, C#
  stability = please do not move the mouse
 ```
 
-<details>
-<summary>⚠️ This program has performed an illegal operation.</summary>
-
-I changed a variable name and the bug disappeared.
-
-I changed it back and the bug stayed gone.
-
-I have chosen not to investigate this gift.
-
-**[ Close ] [ Debug ] [ Accept the miracle ]**
-
-</details>
-
 <p align="center">
   <a href="https://www.icegif.com/dancing-cat-24/"><img src="https://www.icegif.com/wp-content/uploads/2025/12/dancing-cat-icegif-7.gif" width="100" alt="Dancing cat waiting for the compiler" /></a><br />
   <sub>this cat has no idea what a compiler is. look how happy it is.</sub>
